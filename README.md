@@ -132,25 +132,25 @@ java -jar projet.jar
 
 5. Comptes de test
 Compte visiteur
-login : teach
+-login : teach
 
-mot de passe : zeha
+-mot de passe : zeha
 
 Compte administrateur
-login : admin
+-login : admin
 
-mot de passe : admin123
+-mot de passe : admin123
 
 6. Persistance des données
 Les données ne sont pas stockées en base de données mais dans des fichiers texte situés dans le dossier data/ :
 
-utilisateurs.txt : comptes et rôles (visiteur / admin)
+-utilisateurs.txt : comptes et rôles (visiteur / admin)
 
-catalogue.txt : catalogue global de mangas
+-catalogue.txt : catalogue global de mangas
 
-favoris.txt : favoris par utilisateur
+-favoris.txt : favoris par utilisateur
 
-Chaque opération de création, modification ou suppression met à jour ces fichiers.
+-Chaque opération de création, modification ou suppression met à jour ces fichiers.
 
 7. Résumé du fonctionnement
 Au lancement, l’utilisateur arrive sur la fenêtre de connexion.
@@ -159,16 +159,16 @@ Il peut se connecter avec un compte existant ou créer un nouveau compte (visite
 
 Un visiteur peut :
 
-lancer une recommandation,
+-lancer une recommandation,
 
-consulter les résultats,
+-consulter les résultats,
 
-ajouter des mangas à ses favoris,
+-ajouter des mangas à ses favoris,
 
-gérer sa liste de favoris (ajout, suppression, ajout hors-catalogue).
+-gérer sa liste de favoris (ajout, suppression, ajout hors-catalogue).
 
 Un administrateur a en plus accès à :
 
-la gestion des utilisateurs,
+-la gestion des utilisateurs,
 
-la gestion du catalogue de mangas.
+-la gestion du catalogue de mangas.
