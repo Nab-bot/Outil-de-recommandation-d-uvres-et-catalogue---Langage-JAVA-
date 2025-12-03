@@ -121,14 +121,18 @@ Ouvrir le projet dans votre IDE et configurer le dossier src/ comme source.
 Compiler le projet.
 
 Lancement
-Depuis l’IDE : exécuter la classe Projet_JAVA (dans app/).
+### Depuis l’IDE
 
-Depuis le .jar (si fourni) :
+- Ouvrir le projet dans votre IDE (NetBeans, IntelliJ, Eclipse, etc.).
+- Exécuter la classe `Projet_JAVA` située dans `src/projet_java/app/`.
 
-bash
-Copier le code
+### Depuis le .jar (si fourni)
+
+Dans un terminal, à la racine du projet :
+
+```bash
 java -jar projet.jar
-
+```
 
 5. Comptes de test
 Compte visiteur
