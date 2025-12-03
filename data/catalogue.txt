@@ -1,0 +1,36 @@
+Dragon Ball Z;Akira Toriyama;1989;Action;Shonen;Énergique;291;Univers Dragon Ball;Un manga culte sur les combats et la quête de puissance.;dragon_ball_z.jpg
+Vagabond;Takehiko Inoue;1998;Samurai;Seinen;Sombre;327;Japon féodal;Une fresque réaliste et violente retraçant la vie de Musashi Miyamoto.;vagabond.jpg
+One Piece;Eiichiro Oda;1997;Aventure;Shonen;Épique;1100;Monde des pirates;Un voyage à travers les mers pour retrouver le One Piece.;one_piece.jpg
+Naruto;Masashi Kishimoto;1999;Action;Shonen;Émouvant;700;Monde ninja;L’histoire d’un jeune ninja rejeté qui rêve de devenir Hokage.;naruto.jpg
+Bleach;Tite Kubo;2001;Action;Shonen;Surnaturel;686;Monde des shinigamis;Ichigo devient shinigami pour protéger les vivants et les morts.;bleach.jpg
+Attack on Titan;Hajime Isayama;2009;Action;Seinen;Dystopique;139;Monde post-apocalyptique;L’humanité lutte pour survivre face aux titans.;attack_on_titan.jpg
+Fullmetal Alchemist;Hiromu Arakawa;2001;Aventure;Shonen;Dramatique;116;Monde industriel;Deux frères alchimistes cherchent à retrouver leurs corps.;fullmetal_alchemist.jpg
+Death Note;Tsugumi Ohba;2003;Thriller;Seinen;Psychologique;108;Japon contemporain;Un cahier permet de tuer quiconque en y inscrivant son nom.;death_note.jpg
+Hunter x Hunter;Yoshihiro Togashi;1998;Aventure;Shonen;Épique;390;Monde des hunters;Gon part à l’aventure pour devenir hunter et retrouver son père.;hunter_x_hunter.jpg
+Demon Slayer;Koyoharu Gotouge;2016;Action;Shonen;Émouvant;205;Japon féodal;Un frère combat pour sauver sa sœur transformée en démon.;demon_slayer.jpg
+Jujutsu Kaisen;Gege Akutami;2018;Action;Shonen;Occulte;250;Monde des fléaux;Des exorcistes combattent des malédictions surnaturelles.;jujutsu_kaisen.jpg
+Chainsaw Man;Tatsuki Fujimoto;2018;Horreur;Seinen;Violent;160;Monde démoniaque;Un jeune homme devient un hybride démon-chainsaw pour survivre.;chainsaw_man.jpg
+My Hero Academia;Kohei Horikoshi;2014;Action;Shonen;Super-héroïque;430;Monde des héros;Izuku veut devenir héros dans un monde où 80% ont des pouvoirs.;my_hero_academia.jpg
+Tokyo Ghoul;Sui Ishida;2011;Horreur;Seinen;Tragique;143;Tokyo alternatif;Un étudiant devient mi-goule mi-humain et doit survivre dans ce monde cruel.;tokyo_ghoul.jpg
+Black Clover;Yūki Tabata;2015;Aventure;Shonen;Magique;360;Royaume de Clover;Deux orphelins rêvent de devenir le Roi Sorcier.;black_clover.jpg
+Blue Exorcist;Kazue Kato;2009;Fantastique;Shonen;Surnaturel;140;Monde démoniaque;Rin Okumura, fils de Satan, devient exorciste.;blue_exorcist.jpg
+Sword Art Online;Reki Kawahara;2009;Science-Fiction;Seinen;Virtuel;260;Univers VR;Des joueurs prisonniers d’un jeu vidéo doivent se battre pour en sortir.;sword_art_online.jpg
+Psycho-Pass;Gen Urobuchi;2012;Thriller;Seinen;Cyberpunk;41;Futur dystopique;Un monde où la criminalité est prédite par un système automatisé.;psycho_pass.jpg
+Erased;Kei Sanbe;2012;Thriller;Seinen;Émouvant;44;Japon contemporain;Un homme remonte le temps pour empêcher un meurtre d’enfant.;erased.jpg
+Akira;Katsuhiro Otomo;1982;Science-Fiction;Seinen;Apocalyptique;120;Neo-Tokyo;Un classique cyberpunk sur la mutation et le pouvoir.;akira.jpg
+Berserk;Kentaro Miura;1989;Dark Fantasy;Seinen;Sombre;364;Monde médiéval;La quête de vengeance de Guts dans un univers brutal et sombre.;berserk.jpg
+Claymore;Norihiro Yagi;2001;Dark Fantasy;Shonen;Tragique;155;Monde médiéval;Des guerrières mi-humaines mi-démons affrontent les Yomas.;claymore.jpg
+Gantz;Hiroya Oku;2000;Science-Fiction;Seinen;Violent;383;Tokyo futuriste;Des morts reviennent à la vie pour combattre des extraterrestres.;gantz.jpg
+20th Century Boys;Naoki Urasawa;1999;Thriller;Seinen;Mystérieux;249;Japon contemporain;Une bande d’amis affronte un culte menaçant l’humanité.;20th_century_boys.jpg
+Monster;Naoki Urasawa;1994;Thriller;Seinen;Psychologique;162;Allemagne;Un médecin traqué après avoir sauvé un futur tueur en série.;monster.jpg
+Pluto;Naoki Urasawa;2003;Science-Fiction;Seinen;Futuriste;65;Futur robotisé;Un robot enquête sur des crimes mystérieux liés à la robotique.;pluto.jpg
+Great Teacher Onizuka;Tōru Fujisawa;1997;Comédie;Shonen;Humoristique;250;École japonaise;Un ex-délinquant devient professeur et change ses élèves.;gto.jpg
+Slam Dunk;Takehiko Inoue;1990;Sport;Shonen;Motivant;276;Basketball japonais;Un lycéen rebelle découvre la passion du basket.;slam_dunk.jpg
+Haikyuu;Haruichi Furudate;2012;Sport;Shonen;Énergique;402;Volley japonais;Un joueur de petite taille rêve de devenir un as du volley.;haikyuu.jpg
+Fairy Tale;Hiro Mashima;2006;Aventure;Shonen;Lumineux;545;Monde magique;Une guilde de mages vit des aventures épiques et amicales.;fairy_tail.jpg
+dandadan;auteur;0;Non renseigné;Seinen;;;;fsdgsfvsc;
+Baki;Yujiro;0;;Shonen;;;;;
+test;test;0;Non renseigné;;;;;test;
+teste;teste;0;Non renseigné;;;;;teste;
+aa;aa;0;Non renseigné;;;;;aa;
+a;a;0;Non renseigné;;;;;a;

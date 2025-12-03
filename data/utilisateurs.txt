@@ -1,0 +1,12 @@
+admin;admin123;ADMIN
+nabil;azerty;VISITEUR
+sakura;sakura99;VISITEUR
+dany;hassanne;VISITEUR
+donMarlone;BAGGY123;ADMIN
+teach;zeha;VISITEUR
+gabriel;riddler;ADMIN
+Sasukeeeeee;Naruto;ADMIN
+Yujiro;Hanma;ADMIN
+test;motpasse;ADMIN
+slyverin.boy;Jaguar5478@!;VISITEUR
+teste;teste;VISITEUR

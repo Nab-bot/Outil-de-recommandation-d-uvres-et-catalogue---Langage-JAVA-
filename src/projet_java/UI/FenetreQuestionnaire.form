@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                                  <Component id="LabelGenreQuestionnaire" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="LabelAmbianceQuestionnaire" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="LabelLongueurQuestionnaire" alignment="1" max="32767" attributes="0"/>
+                                  <Component id="LabelUniversQuestionnaire" max="32767" attributes="0"/>
+                                  <Component id="LabelTypeQuestionnaire" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="LabelPeriodeQuestionnaire" max="32767" attributes="0"/>
+                              <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="ComboGenre" min="-2" pref="130" max="-2" attributes="0"/>
+                          <Component id="ComboAmbiance" min="-2" pref="130" max="-2" attributes="0"/>
+                          <Component id="ComboLongueur" min="-2" pref="130" max="-2" attributes="0"/>
+                          <Component id="ComboUnivers" min="-2" pref="130" max="-2" attributes="0"/>
+                          <Component id="ComboType" min="-2" pref="130" max="-2" attributes="0"/>
+                          <Component id="ComboPeriode" alignment="1" min="-2" pref="130" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="btnValiderQuestionnaire" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace pref="121" max="32767" attributes="0"/>
+                      <Component id="btnRetourQuestionnaire" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="67" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LabelTypeQuestionnaire" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ComboType" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LabelGenreQuestionnaire" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ComboGenre" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LabelAmbianceQuestionnaire" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ComboAmbiance" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LabelLongueurQuestionnaire" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ComboLongueur" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LabelUniversQuestionnaire" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ComboUnivers" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="LabelPeriodeQuestionnaire" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ComboPeriode" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="13" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btnValiderQuestionnaire" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="btnRetourQuestionnaire" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="btnValiderQuestionnaire">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Valider"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnValiderQuestionnaireActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnRetourQuestionnaire">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Retour"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnRetourQuestionnaireActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelGenreQuestionnaire">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Genre"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelAmbianceQuestionnaire">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ambiance"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelLongueurQuestionnaire">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Longueur"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelUniversQuestionnaire">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Univers"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="ComboGenre">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="11">
+            <StringItem index="0" value=" "/>
+            <StringItem index="1" value="Action"/>
+            <StringItem index="2" value="Aventure"/>
+            <StringItem index="3" value="Com&#xe9;die"/>
+            <StringItem index="4" value="Dark Fantasy"/>
+            <StringItem index="5" value="Fantastique"/>
+            <StringItem index="6" value="Horreur"/>
+            <StringItem index="7" value="Samurai"/>
+            <StringItem index="8" value="Science-Fiction"/>
+            <StringItem index="9" value="Sport"/>
+            <StringItem index="10" value="Thriller"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ComboGenreActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="ComboAmbiance">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="21">
+            <StringItem index="0" value=" "/>
+            <StringItem index="1" value="Apocalyptique"/>
+            <StringItem index="2" value="Cyberpunk"/>
+            <StringItem index="3" value="Dramatique"/>
+            <StringItem index="4" value="Dystopique"/>
+            <StringItem index="5" value="&#xc9;mouvant"/>
+            <StringItem index="6" value="&#xc9;nergique"/>
+            <StringItem index="7" value="&#xc9;pique"/>
+            <StringItem index="8" value="Futuriste"/>
+            <StringItem index="9" value="Humoristique"/>
+            <StringItem index="10" value="Lumineux"/>
+            <StringItem index="11" value="Magique"/>
+            <StringItem index="12" value="Myst&#xe9;rieux"/>
+            <StringItem index="13" value="Occulte"/>
+            <StringItem index="14" value="Psychologique"/>
+            <StringItem index="15" value="Sombre"/>
+            <StringItem index="16" value="Super-h&#xe9;ro&#xef;que"/>
+            <StringItem index="17" value="Surnaturel"/>
+            <StringItem index="18" value="Tragique"/>
+            <StringItem index="19" value="Violent"/>
+            <StringItem index="20" value="Virtuel"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="ComboLongueur">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="3">
+            <StringItem index="0" value=" "/>
+            <StringItem index="1" value="Court"/>
+            <StringItem index="2" value="Long"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ComboLongueurActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="ComboUnivers">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="26">
+            <StringItem index="0" value=" "/>
+            <StringItem index="1" value="Allemagne"/>
+            <StringItem index="2" value="Basketball japonais"/>
+            <StringItem index="3" value="&#xc9;cole japonaise"/>
+            <StringItem index="4" value="Futur dystopique"/>
+            <StringItem index="5" value="Futur robotis&#xe9;"/>
+            <StringItem index="6" value="Japon contemporain"/>
+            <StringItem index="7" value="Japon f&#xe9;odal"/>
+            <StringItem index="8" value="Monde d&#xe9;moniaque"/>
+            <StringItem index="9" value="Monde des fl&#xe9;aux"/>
+            <StringItem index="10" value="Monde des h&#xe9;ros"/>
+            <StringItem index="11" value="Monde des hunters"/>
+            <StringItem index="12" value="Monde des pirates"/>
+            <StringItem index="13" value="Monde des shinigamis"/>
+            <StringItem index="14" value="Monde industriel"/>
+            <StringItem index="15" value="Monde magique"/>
+            <StringItem index="16" value="Monde m&#xe9;di&#xe9;val"/>
+            <StringItem index="17" value="Monde ninja"/>
+            <StringItem index="18" value="Monde post-apocalyptique"/>
+            <StringItem index="19" value="Neo-Tokyo"/>
+            <StringItem index="20" value="Royaume de Clover"/>
+            <StringItem index="21" value="Tokyo alternatif"/>
+            <StringItem index="22" value="Tokyo futuriste"/>
+            <StringItem index="23" value="Univers Dragon Ball"/>
+            <StringItem index="24" value="Univers VR"/>
+            <StringItem index="25" value="Volley japonais"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelTypeQuestionnaire">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Type"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="ComboType">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="3">
+            <StringItem index="0" value=" "/>
+            <StringItem index="1" value="Shonen"/>
+            <StringItem index="2" value="Seinen"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ComboTypeActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="LabelPeriodeQuestionnaire">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="P&#xe9;riode"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="ComboPeriode">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="3">
+            <StringItem index="0" value=" "/>
+            <StringItem index="1" value="R&#xe9;cent (&gt;= 2010)"/>
+            <StringItem index="2" value="Classique (&lt; 2010)"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ComboPeriodeActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+  </SubComponents>
+</Form>

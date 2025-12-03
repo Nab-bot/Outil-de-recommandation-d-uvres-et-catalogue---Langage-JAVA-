@@ -1,0 +1,23 @@
+nabil;Vagabond
+teach;test
+teach;Berserk
+teach;Haikyuu
+teach;Monster
+teach;Chainsaw Man
+teach;20th Century Boys
+sisi;Great Teacher Onizuka
+sisi;Vagabond
+sisi;Gachiakuta
+teach;Vagabond
+Yujiro;Naruto
+testeurprojet;Jujutsu Kaisen
+testeurprojet;Gachiakuta
+teach;Naruto
+slyverin.boy;My Hero Academia
+teach;Akira
+nab;Vagabond
+teste;Fullmetal Alchemist
+teach;Fullmetal Alchemist
+teach;test
+teach;teste
+teach;a
